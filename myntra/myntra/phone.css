@@ -1,0 +1,157 @@
+
+
+
+header{
+    width: 100%;
+    height: 140px;
+}
+.left {
+    width: 60%;
+}
+.logo {
+    width: 10%;
+    height: 90%;
+}
+.left-content {
+    width: 90%;
+}
+.left-content ul{
+    width: 100%;
+    justify-content: space-evenly;
+}
+.left-content ul li{
+    width: 14%;
+    font-size: 1.8rem;
+}
+.left-content ul .fourth{
+    width: 20%;
+}
+
+.right{
+    width: 40%;
+    /* padding-left: 1%; */
+    
+}
+.right input{
+    width: 75%;
+    height: 65%;
+    margin-right:25px;
+    margin-left: 0px;
+    font-size: 1.5rem;
+}
+
+.right .random{
+    width: 25%;
+}
+.right-content{
+    width: 33%;
+    margin-right: 1%;  
+}
+.right i{
+    font-size: 1.7rem;
+}
+.right p{
+    font-size: 1.2rem;
+}
+
+.Bag{
+    margin-right: 4%;
+}
+
+
+
+/* part1 */
+.part1 {
+    width: 100%;
+    height: 389px;
+    background: url(cp1.png) no-repeat center center / contain;
+}
+
+
+/* part2 */
+.part2 {
+    width: 98%;
+    height: 676px;
+    margin-top: 21px;
+    /* position: relative;
+    bottom: 20px; */
+}
+
+
+/* main box2 section */
+.main-para {
+    padding-bottom: 23px;
+    font-size: 2.5rem;
+    padding-top: 46px;
+    padding-left: 52px;
+}
+
+.box2-part1-m-div {
+    width: 100%;
+    height: 700px;
+}
+
+.cloth-type{
+    font-size: 1.7rem;
+}
+.offers{
+
+    font-size: 1.9rem;
+}
+
+
+.box2-part2-pic-box {
+    width: 100%;
+    height: 770px;
+}
+
+.box2-part2-text{
+    font-size: 2.5rem;
+    padding-bottom: 35px;
+}
+.text1{
+    font-size: 1.6rem;
+}
+.text2{
+    font-size: 1.9rem;
+}
+
+
+/* remaining single box */
+.singles {
+    height: 771px;
+    margin: 1% 2%;
+}
+
+
+.text-box{
+    height: 25%;
+    bottom: 14px;
+}
+
+.text-box-text1 {
+    font-size: 2rem;
+}
+.text-box-text2 {
+    font-size: 2.3rem;
+} 
+.text-box-text3 {
+    font-size: 1.7rem;
+}
+
+@media (2000px <= width <= 2730px){
+    .text-box{
+        height: 18%;
+        bottom: 14px;
+    }
+
+    .text-box-text1{
+        font-size: 1.6rem;
+    }
+    .text-box-text2{
+        font-size: 1.8rem;
+    }
+    .text-box-text3{
+        font-size: 1.3rem;
+    }
+}

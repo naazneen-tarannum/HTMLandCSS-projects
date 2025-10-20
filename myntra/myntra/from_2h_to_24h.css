@@ -1,0 +1,31 @@
+/* part1 */
+.part1 {
+    width: 98%;
+    height: 291px;
+    background: url(cp1.png) no-repeat center center / contain;
+}
+
+/* part2 */
+.part2 {
+    width: 100%;
+    height: 594px;
+    margin-top: 0px;
+}
+
+.box2-part1-m-div {
+    width: 100%;
+    height: 550px;
+}
+.cloth-type{
+    font-size: 1.35rem;
+}
+.offers{
+
+    font-size: 1.55rem;
+}
+
+
+.box2-part2-pic-box {
+    width: 100%;
+    height: 550px;
+}

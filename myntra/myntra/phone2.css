@@ -1,0 +1,16 @@
+
+header{
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 120px;
+}
+
+.left{
+    flex-wrap: wrap;
+    height: 50%;
+}
+.right{
+    flex-wrap: wrap;
+    height: 50%;
+}
